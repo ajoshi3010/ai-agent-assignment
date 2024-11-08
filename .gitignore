@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment directory
+env/
+venv/
+
+# Environment variables file
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Python-specific log files
+*.log
+*.pot
+*.log
+
+# C extensions
+*.so
+
+# Ignore package manager lock files
+Pipfile.lock
+poetry.lock
+credentials.json
